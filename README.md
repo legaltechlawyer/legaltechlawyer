@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @legaltechlawyer
 - 👀 I’m interested in legal tech
-- 🌱 I’m currently learning python while I am working as a M&A lawyer.
+- 🌱 I’m currently learning python while I am working as a M&A and intellectual property lawyer.
